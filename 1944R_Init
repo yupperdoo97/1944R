@@ -179,10 +179,10 @@ function setupMusicPlayer() {
         "https://audio.jukehost.co.uk/vduRKY0WduKIKIOJkQ0m9g6hqhZDoPB0"
     );
     const song3 = new Song(
-        "We Want Willkie",
-        "Oscar Brand and Billy Faier",
-        "https://imgur.com/qQgFDtd.png",
-        "https://audio.jukehost.co.uk/sjBXFWzTln0JY8BoiZ9BP92a9rY6e1kC"
+        "Election Day",
+        "Cindy Walker",
+        "https://imgur.com/BqSQrmT.png",
+        "https://audio.jukehost.co.uk/3HesjprGgJLTM6fH0v3pGgMG4aJKzj7U"
     );
     const song4 = new Song(
         "Fireside Chat: The Arsenal of Democracy",
